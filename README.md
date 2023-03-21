@@ -1,6 +1,8 @@
 # Academic-Projects
 Following are some of the Academic projects completed as part of the <i>Computing Systems</i> specializing towards the **MS in Computer Science Program at Georgia Tech (2021 - 2022).**
 
+<br><i>Note: As per the university and program policies, any project or course work is strictly prohibited from making public. Hence any code implementations for above assignments cannot be publicly posted. In case you wish to review, please reach out to me and I can provide the read only access to the my private repo for the above assignments.  </i>
+
 ## GETFILE 
 **Course :** CS 6200 - Grad Intro to Operating Systems <br>
 **Languages/Technologies :** C, Threads, Sockets, IPC Mechanisms <br>
